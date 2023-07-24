@@ -25,6 +25,11 @@ https://github.com/samchon/typia/issues/294
 
 
 ## 2023-08
+### Typia Protocol Buffer Support
+https://github.com/samchon/typia/issues/294
+
+`typia` will support protocol buffer feature.
+
 ### `@nestia/editor`
 https://github.com/samchon/nestia/issues/445
 
