@@ -10,6 +10,12 @@ https://github.com/samchon/nestia/issues/292
 
 Migration program generating NestJS project from a `swagger.json` file.
 
+### `ISwaggerRoute.security`
+https://github.com/samchon/nestia/issues/474
+
+### `@TypedHeaders()`
+https://github.com/samchon/nestia/issues/473
+
 ### Typia Protocol Buffer Support
 https://github.com/samchon/typia/issues/294
 
@@ -46,5 +52,17 @@ https://github.com/samchon/safe-typeorm
 
 
 
+
 ## 2023-10
 Fix delayed issues of `typia` and `nestia`
+
+
+
+
+## 2023-11
+Support GraphQL in both `typia` and `nestia`
+
+
+
+
+## 2023-12
