@@ -43,3 +43,8 @@ Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:
 https://github.com/samchon/safe-typeorm
 
 `safe-typeorm` will support TypeORM v3.
+
+
+
+## 2023-10
+Fix delayed issues of `typia` and `nestia`
