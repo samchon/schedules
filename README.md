@@ -5,21 +5,16 @@ Open source development schedule of Samchon
 
 
 ## 2023-07
-### `@nestia/migrate`
+### ✅ `@nestia/migrate`
 https://github.com/samchon/nestia/issues/292
 
 Migration program generating NestJS project from a `swagger.json` file.
 
-### `ISwaggerRoute.security`
+### ✅ `ISwaggerRoute.security`
 https://github.com/samchon/nestia/issues/474
 
 ### `@TypedHeaders()`
 https://github.com/samchon/nestia/issues/473
-
-### Typia Protocol Buffer Support
-https://github.com/samchon/typia/issues/294
-
-`typia` will support protocol buffer feature.
 
 
 
