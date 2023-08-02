@@ -13,7 +13,7 @@ Migration program generating NestJS project from a `swagger.json` file.
 ### ✅ `ISwaggerRoute.security`
 https://github.com/samchon/nestia/issues/474
 
-### `@TypedHeaders()`
+### ✅ `@TypedHeaders()`
 https://github.com/samchon/nestia/issues/473
 
 
