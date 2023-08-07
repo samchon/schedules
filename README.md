@@ -71,5 +71,16 @@ Fix delayed issues of `typia` and `nestia`
 
 
 ## 2023-11
-Start `@nestia/editor` development.
+### ~~`@nestia/editor`~~
+> Start `@nestia/editor` development again.
+
+https://github.com/samchon/nestia/issues/445
+
+New generation of `swagger-ui` editor embedding TypeScript Editor for auto-completion and type-hints.
+
+Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:
+
+  - Convenient migration to NestJS project on website
+  - Convenient SDK generation on website for other languages
+  - Convenient Mockup Simulator on website for other languages
 
