@@ -25,16 +25,26 @@ https://github.com/samchon/typia/issues/294
 
 `typia` will support protocol buffer feature.
 
-### `@nestia/editor`
-https://github.com/samchon/nestia/issues/445
+### GraphQL Support
+Let `typia` and `nestia` to support GQL.
 
-New generation of `swagger-ui` editor embedding TypeScript Editor for auto-completion and type-hints. 
+Many `typia` and `nestia` users have requsted this feature.
 
-Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:
+  - https://github.com/samchon/nestia/issues/324
 
-  - Convenient migration to NestJS project on website
-  - Convenient SDK generation on website for other languages
-  - Convenient Mockup Simulator on website for other languages
+
+### ~~`@nestia/editor`~~
+> Be delayed as `@nestia/migrate` was not famouse as expected
+
+~~https://github.com/samchon/nestia/issues/445~~
+
+~~New generation of `swagger-ui` editor embedding TypeScript Editor for auto-completion and type-hints.~~
+
+~~Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:~~
+
+  - ~~Convenient migration to NestJS project on website~~
+  - ~~Convenient SDK generation on website for other languages~~
+  - ~~Convenient Mockup Simulator on website for other languages~~
 
 
 
@@ -45,11 +55,12 @@ Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:
 
 `typia` will support `fastify` through a plugin development.
 
-### TypeORM plugin
-https://github.com/samchon/safe-typeorm
+### GraphQL Support
+Let `typia` and `nestia` to support GQL.
 
-`safe-typeorm` will support TypeORM v3.
+Many `typia` and `nestia` users have requsted this feature.
 
+  - https://github.com/samchon/nestia/issues/324
 
 
 
@@ -60,9 +71,5 @@ Fix delayed issues of `typia` and `nestia`
 
 
 ## 2023-11
-Support GraphQL in both `typia` and `nestia`
+Start `@nestia/editor` development.
 
-
-
-
-## 2023-12
