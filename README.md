@@ -50,17 +50,17 @@ Many `typia` and `nestia` users have requsted this feature.
 
 
 ## 2023-09
-### Fastify plugin
-> Requested by `fastify` developer
-
-`typia` will support `fastify` through a plugin development.
-
 ### GraphQL Support
 Let `typia` and `nestia` to support GQL.
 
 Many `typia` and `nestia` users have requsted this feature.
 
   - https://github.com/samchon/nestia/issues/324
+
+### Fastify plugin
+> Requested by `fastify` developer
+
+`typia` will support `fastify` through a plugin development.
 
 
 
