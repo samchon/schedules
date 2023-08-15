@@ -32,6 +32,8 @@ Many `typia` and `nestia` users have requsted this feature.
 
   - https://github.com/samchon/nestia/issues/324
 
+### `@TypedException()`
+https://github.com/samchon/nestia/issues/540
 
 ### ~~`@nestia/editor`~~
 > Be delayed as `@nestia/migrate` was not famouse as expected
