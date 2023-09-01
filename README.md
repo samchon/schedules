@@ -20,19 +20,12 @@ https://github.com/samchon/nestia/issues/473
 
 
 ## 2023-08
-### Typia Protocol Buffer Support
+### ✅ Typia Protocol Buffer Support
 https://github.com/samchon/typia/issues/294
 
 `typia` will support protocol buffer feature.
 
-### GraphQL Support
-Let `typia` and `nestia` to support GQL.
-
-Many `typia` and `nestia` users have requsted this feature.
-
-  - https://github.com/samchon/nestia/issues/324
-
-### `@TypedException()`
+### ✅ `@TypedException()`
 https://github.com/samchon/nestia/issues/540
 
 ### ~~`@nestia/editor`~~
@@ -52,13 +45,6 @@ https://github.com/samchon/nestia/issues/540
 
 
 ## 2023-09
-### GraphQL Support
-Let `typia` and `nestia` to support GQL.
-
-Many `typia` and `nestia` users have requsted this feature.
-
-  - https://github.com/samchon/nestia/issues/324
-
 ### Fastify plugin
 > Requested by `fastify` developer
 
@@ -73,7 +59,7 @@ Fix delayed issues of `typia` and `nestia`
 
 
 ## 2023-11
-### ~~`@nestia/editor`~~
+### `@nestia/editor`
 > Start `@nestia/editor` development again.
 
 https://github.com/samchon/nestia/issues/445
