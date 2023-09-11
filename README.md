@@ -45,15 +45,27 @@ https://github.com/samchon/nestia/issues/540
 
 
 ## 2023-09
+### ✅ Nestia v2
+  - Adapt typia v5 (especially type tags)
+  - Propagation mode
+  - DTO clone mode
+  - Compilation error messages about unsupported types
+
+### Delayed issues
+Fix delayed issues of `typia` and `nestia`
+
+### TypeORM plugin
+Upgrade `safe-typeorm` to support v3.
+
+
+
+
+## 2023-10
 ### Fastify plugin
 > Requested by `fastify` developer
 
 `typia` will support `fastify` through a plugin development.
 
-
-
-## 2023-10
-Fix delayed issues of `typia` and `nestia`
 
 
 
