@@ -51,12 +51,12 @@ https://github.com/samchon/nestia/issues/540
   - DTO clone mode
   - Compilation error messages about unsupported types
 
-### Delayed issues
-Fix delayed issues of `typia` and `nestia`
+### ✅ Prisma Markdown
+Markdown documents generator of Prisma.
 
-### TypeORM plugin
-Upgrade `safe-typeorm` to support v3.
-
+  - Mermaid ERD diagrams
+  - Descriptions by `///` comments
+  - Pagination by `@section` tag
 
 
 
