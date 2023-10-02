@@ -60,17 +60,8 @@ Markdown documents generator of Prisma.
 
 
 
+
 ## 2023-10
-### Fastify plugin
-> Requested by `fastify` developer
-
-`typia` will support `fastify` through a plugin development.
-
-
-
-
-
-## 2023-11
 ### `@nestia/editor`
 > Start `@nestia/editor` development again.
 
@@ -84,3 +75,11 @@ Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:
   - Convenient SDK generation on website for other languages
   - Convenient Mockup Simulator on website for other languages
 
+
+
+
+## 2023-12
+### Fastify plugin
+> Requested by `fastify` developer
+
+`typia` will support `fastify` through a plugin development.
