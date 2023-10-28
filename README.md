@@ -61,7 +61,7 @@ Markdown documents generator of Prisma.
 
 
 ## 2023-10
-### Supports `setGlobalPrefix` in `@nestia/sdk`
+### ✅ Supports `setGlobalPrefix` in `@nestia/sdk`
   - https://github.com/samchon/nestia/issues/399
 
 
