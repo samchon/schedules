@@ -68,24 +68,23 @@ Markdown documents generator of Prisma.
 
 
 ## 2023-11
-### `@nestia/editor`
-> Start `@nestia/editor` development again.
+### ~~`@nestia/editor`~~
+~~> Start `@nestia/editor` development again.~~
 
-https://github.com/samchon/nestia/issues/445
+~~https://github.com/samchon/nestia/issues/445~~
 
-New generation of `swagger-ui` editor embedding TypeScript Editor for auto-completion and type-hints.
+~~New generation of `swagger-ui` editor embedding TypeScript Editor for auto-completion and type-hints.~~
 
-Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:
+~~Also, it would embed `@nestia/migrate` and `@nestia/sdk` for those things:~~
 
-  - Convenient migration to NestJS project on website
-  - Convenient SDK generation on website for other languages
-  - Convenient Mockup Simulator on website for other languages
+  - ~~Convenient migration to NestJS project on website~~
+  - ~~Convenient SDK generation on website for other languages~~
+  - ~~Convenient Mockup Simulator on website for other languages~~
 
+A month has passed since we responded to the TypeScript v5.3 update and maintained `typia` and `nestia`.
 
 
 
 ## 2023-12
-### Fastify plugin
-> Requested by `fastify` developer
-
-`typia` will support `fastify` through a plugin development.
+### WebSocket support in `nestia`
+https://github.com/samchon/nestia/issues/715
